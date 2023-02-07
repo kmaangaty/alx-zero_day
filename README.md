@@ -1,2 +1,1 @@
-My first readme.
-This is update from GUI.
+My first readme
